@@ -34,5 +34,10 @@ bower_components/
 .floo
 .flooignore
 
+.DS_Store
+client/.DS_Store
+test/.DS_Store
+test/spec/.DS_Store
+
 # Swap files (for the vim users in all of us)
 /**/*.swp
